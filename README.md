@@ -1,1 +1,1 @@
-# Dictionary Try Project
+This is Try Proj.
